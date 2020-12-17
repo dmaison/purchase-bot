@@ -1,0 +1,21 @@
+{
+  "name": "purchase-bot",
+  "version": "0.0.1",
+  "description": "Free bot for consumers to compete in the hardware purchasing space. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "purchase",
+    "bot",
+    "scraper",
+    "consumer"
+  ],
+  "author": "David Maison",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^87.0.4",
+    "selenium-webdriver": "^4.0.0-alpha.8"
+  }
+}
